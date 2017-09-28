@@ -1,4 +1,4 @@
 # ColumnChart
 
 ### Result
-![result](ColumnChart/ColumnChart.PNG)
+![result](https://raw.githubusercontent.com/gerritschmidt/ColumnChart/master/ColumnChart.PNG)
